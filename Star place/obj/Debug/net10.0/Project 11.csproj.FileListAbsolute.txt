@@ -1,0 +1,14 @@
+C:\Users\Mouse\OneDrive\Desktop\Project 11\bin\Debug\net10.0\Project 11.exe
+C:\Users\Mouse\OneDrive\Desktop\Project 11\bin\Debug\net10.0\Project 11.deps.json
+C:\Users\Mouse\OneDrive\Desktop\Project 11\bin\Debug\net10.0\Project 11.runtimeconfig.json
+C:\Users\Mouse\OneDrive\Desktop\Project 11\bin\Debug\net10.0\Project 11.dll
+C:\Users\Mouse\OneDrive\Desktop\Project 11\bin\Debug\net10.0\Project 11.pdb
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.AssemblyInfoInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.AssemblyInfo.cs
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.csproj.CoreCompileInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.dll
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\refint\Project 11.dll
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.pdb
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\Project 11.genruntimeconfig.cache
+C:\Users\Mouse\OneDrive\Desktop\Project 11\obj\Debug\net10.0\ref\Project 11.dll
